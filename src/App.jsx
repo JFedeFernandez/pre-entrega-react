@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <NavBar/>
-      <ItemListContainer message='Producto agregado'/>
+      <ItemListContainer mensaje='Producto agregado'/>
     </>
   )
 }

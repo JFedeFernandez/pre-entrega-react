@@ -1,9 +1,9 @@
 import React from 'react'
 
-function ItemListContainer({message}) {
+function ItemListContainer({mensaje}) {
     return (
         <div className='itemListContainer'>
-            {message}
+            {mensaje}
         </div>
     )
 }
